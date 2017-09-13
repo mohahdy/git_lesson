@@ -5,6 +5,6 @@ def my_square(x):
 """
 print(my_square(3))
 
-def root_square(x)
+def root_square(x):
         return(x**0.5)
-print(root_square(36))
+print(root_square(306))
